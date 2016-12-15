@@ -1,0 +1,29 @@
+Ankyros Prime
+
+Vrsta: Oklepne pesti
+Hitrost: 1.25
+Škoda: 38
+Kritièna priložnost: 20%
+Kritièna škoda: 2.0x
+Status: 15%
+Doseg: Kratek
+
+Bo Prime
+
+Vrsta: Palica
+Hitrost: 1.8
+Škoda: 75
+Kritièna priložnost: 12.5%
+Kritièna škoda: 2.0x
+Status: 25%
+Doseg: Dolg
+
+Dakra Prime
+
+Vrsta: Enoroèni meè
+Hitrost: 1.25
+Škoda: 38
+Kritièna priložnost: 20%
+Kritièna škoda: 2.0x
+Status: 15%
+Doseg: Srednji

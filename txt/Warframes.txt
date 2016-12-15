@@ -1,0 +1,31 @@
+Ash Prime:
+
+Življenje: 450
+Šèit: 375
+Oklep: 150
+Energija: 150
+Hitrost: 1.20
+
+Ember Prime:
+
+Življenje: 300
+Šèit: 375
+Oklep: 125
+Energija: 225
+Hitrost: 1.1
+
+Excalibur Prime:
+
+Življenje: 300
+Šèit: 300
+Oklep: 250
+Energija: 150
+Hitrost: 1.0
+
+Frost Prime:
+
+Življenje: 300
+Šèit: 525
+Oklep: 300
+Energija: 150
+Hitrost: 0.95

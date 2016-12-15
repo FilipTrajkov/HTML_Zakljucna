@@ -1,0 +1,35 @@
+Akbronco Prime
+
+Tip: Šibrovske pištole
+Streljanje: Polavtomatsko
+Hitrost: 8.3 metkov/sekundo
+Kapaciteta: 6/210
+Ponovno polnenje: 2.3 sekund
+Škoda: 105 (15*7)
+Kritièna priložnost: 2.5%
+Kritièna škoda: 2x
+Status: 30%
+
+Akstiletto Prime
+
+Tip: Avtomatske pištole
+Streljanje: Avtomatsko
+Hitrost: 7.08 metkov/sekundo
+Kapaciteta: 40/400
+Ponovno polnenje: 1.1 sekund
+Škoda: 36
+Kritièna priložnost: 15%
+Kritièna škoda: 2x
+Status: 30%
+
+Bronco Prime
+
+Tip: Šibrovska pištola
+Streljanje: Polavtomatsko
+Hitrost: 4.2 metkov/sekundo
+Kapaciteta: 4/210
+Ponovno polnenje: 2.0 sekund
+Škoda: 140 (20*7)
+Kritièna priložnost: 2.5%
+Kritièna škoda: 1.5x
+Status: 17.5%

@@ -1,0 +1,35 @@
+Boar Prime:
+
+Tip: Šibrovka
+Streljanje: Avtomatsko
+Hitrost: 4.67 metkov/sekundo
+Kapaciteta: 20/120
+Ponovno polnenje: 2.8 sekund
+Škoda: 184 (20.4*9)
+Kritièna priložnost: 15%
+Kritièna škoda: 2x
+Status: 30%
+
+Boltor Prime
+
+Tip: Jurišna puška
+Streljanje: Avtomatsko
+Hitrost: 10 metkov/sekundo
+Kapaciteta: 60/540
+Ponovno polnenje: 2.4 sekund
+Škoda: 55
+Kritièna priložnost: 5%
+Kritièna škoda: 2x
+Status: 10%
+
+Braton Prime
+
+Tip: Jurišna puška
+Streljanje: Avtomatsko
+Hitrost: 9.58 metkov/sekundo
+Kapaciteta: 75/375
+Ponovno polnenje: 2.15 sekund
+Škoda: 35
+Kritièna priložnost: 10%
+Kritièna škoda: 2x
+Status: 20%

@@ -1,0 +1,13 @@
+Carrier Prime:
+
+Živlenje: 400
+Šèit: 100
+Oklep: 150
+Energija: 100
+
+Wyrm Prime:
+
+Živlenje: 100
+Šèit: 300
+Oklep: 150
+Energija: 100

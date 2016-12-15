@@ -1,0 +1,7 @@
+Odonata Prime
+
+Življenje: 1200
+Šèit: 1200
+Oklep: 100
+Energija: 100
+Hitrost letenja: 1.05
